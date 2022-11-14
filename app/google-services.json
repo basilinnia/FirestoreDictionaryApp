@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "145549047394",
+    "firebase_url": "https://basic-dictionary-app-default-rtdb.firebaseio.com",
+    "project_id": "basic-dictionary-app",
+    "storage_bucket": "basic-dictionary-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:145549047394:android:a0a1747840e0cdd71d033b",
+        "android_client_info": {
+          "package_name": "com.firebase.basicdictionaryapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "145549047394-8hpfnghoaj56ipcpf1af3jlmsboecjht.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTNsrtf011A0GeyJZNNC-JVKj5W3pe7pQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "145549047394-8hpfnghoaj56ipcpf1af3jlmsboecjht.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:145549047394:android:e018e29641ab81f91d033b",
+        "android_client_info": {
+          "package_name": "com.firebase.basicfirebasedictionary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "145549047394-8hpfnghoaj56ipcpf1af3jlmsboecjht.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTNsrtf011A0GeyJZNNC-JVKj5W3pe7pQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "145549047394-8hpfnghoaj56ipcpf1af3jlmsboecjht.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:145549047394:android:e3e7c3f191130e9a1d033b",
+        "android_client_info": {
+          "package_name": "com.firebase.firestoredictionaryapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "145549047394-8hpfnghoaj56ipcpf1af3jlmsboecjht.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTNsrtf011A0GeyJZNNC-JVKj5W3pe7pQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "145549047394-8hpfnghoaj56ipcpf1af3jlmsboecjht.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
